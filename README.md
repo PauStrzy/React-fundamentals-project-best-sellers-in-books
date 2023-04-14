@@ -1,3 +1,7 @@
+Check the project on netlify with link below!
+
+amazon-best-sellers-in-books.netlify.app
+
 #### Folder Structure
 
 - node_modules
